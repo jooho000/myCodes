@@ -72,3 +72,7 @@ webCrawler:
 JavaScirptPracitce: 
 
     practice projects; javaScript
+
+DigitalClock:
+
+    webpage for a digital clock and stopwatch; java script
