@@ -69,3 +69,6 @@ webCrawler:
 
     crawls to given depth from seed website(given by user); C
 
+JavaScirptPracitce: 
+
+    practice projects; javaScript
