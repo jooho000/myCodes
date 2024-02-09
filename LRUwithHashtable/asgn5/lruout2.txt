@@ -1,3 +1,0 @@
-goals : 1
-minutes : 483
-name : Javier Hernandez
