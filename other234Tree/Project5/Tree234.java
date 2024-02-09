@@ -1,9 +1,6 @@
 
 package Project5;
 
-/**
- * @author juneja_u
- */
 public class Tree234 {
     Node root;
 

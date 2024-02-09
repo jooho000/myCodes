@@ -1,14 +1,8 @@
 
 package Project5;
 
-/**
- * @author juneja_u
- */
 public class Test234Tree {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Tree234 t = new Tree234();
         t.insert(40);
