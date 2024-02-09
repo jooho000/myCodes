@@ -15,5 +15,6 @@ public class project4main {
         System.out.println("type message to decode: ");
         String decodeThis = sc.nextLine();
         System.out.println("decoded message for '" + decodeThis + "' is '" + huffman.decode(decodeThis) +"'");
+        sc.close();
     }
 }

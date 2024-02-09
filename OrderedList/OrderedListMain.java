@@ -30,5 +30,7 @@ public class OrderedListMain {
         System.out.println("\nmerged list: ");
         array1.mergedDisplay();
 
+        sc.close();
+
     }
 }
